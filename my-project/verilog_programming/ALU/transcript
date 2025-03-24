@@ -1,0 +1,9 @@
+# vsim -c -do "run -all; quit" alu_tb 
+# Start time: 11:24:09 on Jul 04,2024
+# Loading sv_std.std
+# Loading work.alu_tb
+# Loading work.alu
+# run -all
+#  quit
+# End time: 11:24:10 on Jul 04,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0

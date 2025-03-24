@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/aziz/Downloads/Medslab/my-project/computer_architecture/fp_new_processor'
+make: Leaving directory '/home/aziz/Downloads/Medslab/my-project/computer_architecture/fp_new_processor'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+

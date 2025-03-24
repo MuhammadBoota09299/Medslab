@@ -1,0 +1,20 @@
+# vsim -c -do "run -all; quit" single_cycle_processor_tb 
+# Start time: 14:54:05 on Jul 25,2024
+# Loading sv_std.std
+# Loading work.single_cycle_processor_tb
+# Loading work.single_cycle_processor
+# Loading work.pc
+# Loading work.instruction_memory
+# Loading work.registerfile
+# Loading work.controller
+# Loading work.alu
+# Loading work.mux2_1
+# Loading work.immediate
+# run -all
+# ** Note: $stop    : single_cycle_processor_tb.sv(13)
+#    Time: 27 ps  Iteration: 0  Instance: /single_cycle_processor_tb
+# Break in Module single_cycle_processor_tb at single_cycle_processor_tb.sv line 13
+# Stopped at single_cycle_processor_tb.sv line 13
+#  quit
+# End time: 14:54:05 on Jul 25,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0

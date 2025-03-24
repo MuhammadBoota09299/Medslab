@@ -1,0 +1,20 @@
+vsim work.fifo_queue_tb
+# vsim work.fifo_queue_tb 
+# Start time: 10:59:27 on Jul 09,2024
+# Loading sv_std.std
+# Loading work.fifo_queue_tb
+# Loading work.fifo_queue
+add wave sim:/fifo_queue_tb/uut1/*
+add wave  \
+sim:/fifo_queue_tb/uut1/queue
+run
+run
+run
+run
+# ** Note: $finish    : fifo_queue_tb.sv(23)
+#    Time: 325 ps  Iteration: 0  Instance: /fifo_queue_tb
+# 1
+# Break in Module fifo_queue_tb at fifo_queue_tb.sv line 23
+# WARNING: No extended dataflow license exists
+# End time: 11:08:30 on Jul 09,2024, Elapsed time: 0:09:03
+# Errors: 0, Warnings: 0

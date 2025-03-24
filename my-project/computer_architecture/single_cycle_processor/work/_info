@@ -1,0 +1,235 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/aziz/Downloads/Medslab/my-project/computer_architecture
+valu
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1721901244
+!i10b 1
+!s100 8j4U3OG]]:il7EfekbgBR0
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I3;Z7j8jVzJj<6oULPkQN?2
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+w1721897350
+8alu.sv
+Falu.sv
+!i122 73
+L0 1 27
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1721901244.000000
+!s107 immediate.sv|mux2_1.sv|single_cycle_processor_tb.sv|single_cycle_processor.sv|registerfile.sv|pc.sv|instruction_memory.sv|controller.sv|alu.sv|
+Z7 !s90 -work|work|alu.sv|controller.sv|instruction_memory.sv|pc.sv|registerfile.sv|single_cycle_processor.sv|single_cycle_processor_tb.sv|mux2_1.sv|immediate.sv|
+!i113 1
+Z8 o-work work
+Z9 tCvgOpt 0
+vcontroller
+R1
+R2
+!i10b 1
+!s100 ^D>A7][h9Mzg]D@moAU4T2
+R3
+I>TUkV5cm0oQAmNY?Wf`JK0
+R4
+S1
+R0
+w1721897342
+8controller.sv
+Fcontroller.sv
+!i122 73
+L0 1 49
+R5
+r1
+!s85 0
+31
+R6
+Z10 !s107 immediate.sv|mux2_1.sv|single_cycle_processor_tb.sv|single_cycle_processor.sv|registerfile.sv|pc.sv|instruction_memory.sv|controller.sv|alu.sv|
+R7
+!i113 1
+R8
+R9
+vimmediate
+R1
+R2
+!i10b 1
+!s100 8C86kG^L4QCn`6g<J5BgP2
+R3
+IHZ8=HH^OgUZKLBbzG7nG_0
+R4
+S1
+R0
+w1721888771
+8immediate.sv
+Fimmediate.sv
+!i122 73
+Z11 L0 1 13
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vinstruction_memory
+R1
+R2
+!i10b 1
+!s100 VIP7H==OIlGNK@7KU<CE`0
+R3
+I@DiGT15^`jn;E]8Y@05Qm3
+R4
+S1
+R0
+w1721901237
+8instruction_memory.sv
+Finstruction_memory.sv
+!i122 73
+L0 1 28
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vmux2_1
+R1
+R2
+!i10b 1
+!s100 Y<m1I67QaNjE]59bk?FGm3
+R3
+I_58^h^G93I?I=n8CzeSI[0
+R4
+S1
+R0
+w1721889825
+8mux2_1.sv
+Fmux2_1.sv
+!i122 73
+Z12 L0 1 14
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vpc
+R1
+R2
+!i10b 1
+!s100 IbgT1M9z@8_c`P92[Pm_H1
+R3
+ILYTI1IKk<77m6CnM3zVYT1
+R4
+S1
+R0
+w1721796482
+8pc.sv
+Fpc.sv
+!i122 73
+R11
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vregisterfile
+R1
+R2
+!i10b 1
+!s100 VNNQ5==FG>48=]iR6eN<Q3
+R3
+I?WJ:ClfHJhfCEddTzYVn[2
+R4
+S1
+R0
+w1721796485
+8registerfile.sv
+Fregisterfile.sv
+!i122 73
+Z13 L0 1 20
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vsingle_cycle_processor
+R1
+R2
+!i10b 1
+!s100 Q?WSbb6Gl;FjHC=zUG[H70
+R3
+I^=Ikj=cDVn]]QGNa;QcfW3
+R4
+S1
+R0
+w1721897318
+8single_cycle_processor.sv
+Fsingle_cycle_processor.sv
+!i122 73
+R12
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
+vsingle_cycle_processor_tb
+R1
+R2
+!i10b 1
+!s100 @LnkKkXe^B^56`gG8aljD1
+R3
+IODg;QXF7>7K_nQe0Sc=G=3
+R4
+S1
+R0
+w1721892953
+8single_cycle_processor_tb.sv
+Fsingle_cycle_processor_tb.sv
+!i122 73
+R13
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9

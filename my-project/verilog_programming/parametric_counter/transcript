@@ -1,0 +1,10 @@
+# vsim -c -do "run -all;quit" parametric_counter_tb 
+# Start time: 17:00:58 on Jul 08,2024
+# Loading sv_std.std
+# Loading work.parametric_counter_tb
+# Loading work.parametric_counter
+# run -all
+# ** Note: $finish    : parametric_counter_tb.sv(23)
+#    Time: 138 ps  Iteration: 0  Instance: /parametric_counter_tb
+# End time: 17:00:59 on Jul 08,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0

@@ -1,0 +1,1 @@
+{"buildTargets":["clean-all","sim-verilate-linux","sim-verilate-uart","verilate"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}
